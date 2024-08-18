@@ -1,4 +1,4 @@
-# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mr-santosh-kumar-gupta-782b2b13a/) <br>
+# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-santosh-kumar-gupta-782b2b13a/) <br>
 
 🔭 I’m currently working on scalable MERN Stack projects.<br/>
 🤝 I’m seeking full-stack developer opportunities.<br/>
